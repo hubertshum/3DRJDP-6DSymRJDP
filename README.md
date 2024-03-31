@@ -1,6 +1,6 @@
 # The Dataset for Automatic Musculoskeletal and Neurological Disorder Diagnosis with Relative Joint Displacement from Human Gait
 
-![teaser](https://user-images.githubusercontent.com/77708790/146571925-dc3b1e8c-d7dd-42e9-9103-1aa4e0bd5c5d.png)
+![teaser](https://github.com/hubertshum/Automatic-Musculoskeletal-And-Neurological-Disorder-Diagnosis/blob/004939004102fb7795f06259d6c5ad9356900b8d/teaser.png)
 
 <p>We present the dataset for automatic musculoskeletal and neurological disorder diagnosis, as described in the paper <a href="http://hubertshum.com/pbl_tnsre2018disorder.htm">Automatic Musculoskeletal and Neurological Disorder Diagnosis with Relative Joint Displacement from Human Gait</a>. The dataset includes walking motion from healthy subjects and patients sufferinf from musculoskeletal and neurological disorders in BVH.
   
