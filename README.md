@@ -10,6 +10,8 @@ The motion data can be visualised using Autodesk MotionBuilder. <a href="https:/
 <p>By using this dataset, you agree to cite the following research publication in all related project documents/publications:</p>
 <p ">Worasak Rueangsirarak, Jingtian Zhang, Nauman Aslam and Hubert P. H. Shum, "<a href="http://hubertshum.com/pbl_tnsre2018disorder.htm">Automatic Musculoskeletal and Neurological Disorder Diagnosis with Relative Joint Displacement from Human Gait</a>," IEEE Transactions on Neural Systems and Rehabilitation Engineering, vol. 26, no. 12, pp. 2387-2396, IEEE, 2018.</p>
 
+![gait](https://github.com/hubertshum/Automatic-Musculoskeletal-And-Neurological-Disorder-Diagnosis/blob/f0c7fe2baf8b224c65246b5f116d11c958d79d9d/gait.png)
+
 ```
 @article{rueangsirarak18automatic,
  author={Rueangsirarak, Worasak and Zhang, Jingtian and Aslam, Nauman and Shum, Hubert P. H.},
